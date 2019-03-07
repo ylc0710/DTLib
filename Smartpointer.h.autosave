@@ -1,0 +1,9 @@
+#ifndef _SMARTPOINTER_H_
+#define _SMARTPOINTER_H_
+
+namespace DTLib
+{
+template <typename T>
+class Sma
+}
+#endif // _SMARTPOINTER_H_
